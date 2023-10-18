@@ -154,6 +154,7 @@ namespace Arithmetic
         public void InsertSort(int[] array)
         {
 
+
             for (int i = 1; i < array.Length; i++)
             {
                 int temp = array[i];
