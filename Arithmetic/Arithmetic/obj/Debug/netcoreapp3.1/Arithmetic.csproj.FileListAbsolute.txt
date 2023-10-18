@@ -1,0 +1,14 @@
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.exe
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.deps.json
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.json
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.dev.json
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.dll
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.pdb
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfoInputs.cache
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfo.cs
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.CoreCompileInputs.cache
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.dll
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.pdb
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.genruntimeconfig.cache
+D:\WindowProject\ArithmeticStudy\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.AssemblyReference.cache
